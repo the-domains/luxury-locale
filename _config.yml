@@ -1,0 +1,28 @@
+name: Luxury Locale
+favicon: null
+layout_spectrum: 0.6700522133614868
+typography_spectrum: 0.7737117924261838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9502578908577561
+  lightness: 0.24996062903665006
+  saturation: 0.6784831532277167
+  rhythmicContrast: 0.9722963629756123
+purpose: []
