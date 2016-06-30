@@ -1,28 +1,40 @@
-name: Luxury Locale
-favicon: null
-layout_spectrum: 0.6700522133614868
-typography_spectrum: 0.7737117924261838
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.9908701
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5891514
+  brandStrength: 0.9502578908577561
+  lightness: 0.2894737
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9502578908577561
-  lightness: 0.24996062903665006
-  saturation: 0.6784831532277167
-  rhythmicContrast: 0.9722963629756123
-purpose: []
+  rhythmicContrast: 0.8168636
+typography_spectrum: 0.7737117924261838
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Luxury Locale
